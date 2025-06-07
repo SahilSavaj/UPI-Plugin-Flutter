@@ -24,6 +24,8 @@ apply plugin: 'com.android.library'
 android {
     compileSdkVersion 30
 
+    namespace "com.az.upi_india"
+
     defaultConfig {
         minSdkVersion 16
     }
